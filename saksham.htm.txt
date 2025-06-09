@@ -1,0 +1,29 @@
+<html>
+<head>
+
+<title>MY BIOGRAPHY004</title></head>R<body BGC=yellow <IMG SRC="MY_IMAGE.jpg"  alt=A picture of a boy width=""><marquee direction="right" behavior="scroll">moving text</marquee>
+<table border="2">
+<tr>
+<th>MY NAME</th>
+<th>MY MOTHER NAME</th>
+<th>MY FATHER NAME</th>
+<th>ADDRESS</th>
+<th>MY FAVORITE THINGS</th>
+<th>MY SCHOOL</th>
+<th>FAVORITE MOMENT</th>
+</tr>
+<tr>
+<td>Saksham Singh</td>
+<td>Anita Singh</td>
+<td>Arun Kumar</td>
+<td>Vill-Anjoli Dist-Meerut state-Uttar Pradesh</td>
+<td>playing football
+playing cricket
+reading books
+travelling
+</td>
+<td>Sainik School Jhansi</td>
+<td>when i clear my aisse exam ,iam very</td>
+</table>
+</body>
+</html>
